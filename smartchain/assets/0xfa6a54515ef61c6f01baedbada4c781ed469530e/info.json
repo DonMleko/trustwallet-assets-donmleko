@@ -1,0 +1,17 @@
+{
+  "name": "Don Mleko Token",
+  "symbol": "DMT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xfa6a54515ef61c6f01baedbada4c781ed469530e",
+  "website": "https://donmleko.com",
+  "description": "Don Mleko Token (DMT) to kryptowaluta z gangsterskim klimatem, powiązana z grą, NFT i światem mafii krypto.",
+  "explorer": "https://bscscan.com/token/0xfa6a54515ef61c6f01baedbada4c781ed469530e",
+  "links": {
+    "twitter": "https://twitter.com/Iluminejtor",
+    "github": "https://github.com/DonMleko",
+    "telegram": "https://t.me/donmlekotoken"
+    "Instagram": "https://www.instagram.com/donmlekotoken"
+  }
+}
