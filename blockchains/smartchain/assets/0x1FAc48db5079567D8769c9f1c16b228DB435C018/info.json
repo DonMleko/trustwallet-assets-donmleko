@@ -1,0 +1,13 @@
+{
+    "name": "DonMleko Token",
+    "symbol": "DMT",
+    "decimals": 18,
+    "description": "DonMleko Token - The gangster crypto token fighting for power in the crypto mafia world.",
+    "website": "https://donmleko.io",
+    "social": {
+        "github": "https://github.com/DonMleko",
+        "telegram": "https://t.me/donmlekotoken",
+        "instagram": "https://www.instagram.com/donmlekotoken",
+        "twitter": "https://twitter.com/Iluminejtor"
+    }
+}
